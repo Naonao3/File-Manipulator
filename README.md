@@ -1,4 +1,4 @@
-# File-Manipulator
+# File Manipulator
 
 以下のコマンドとその機能を提供するスプリクトです。</br>
 
